@@ -1,6 +1,7 @@
 # HTML5-Bootstrap5-Template
 HTML5 started template with Bootstrap 5 files and folders
 
+```html
 <!doctype html>
 
 <html lang="en">
@@ -50,3 +51,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -->
 </body>
 </html>
+```
